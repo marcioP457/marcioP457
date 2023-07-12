@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Márcio Piva Junior 😁
+## Márcio Piva Junior 
 
  <div>
    <a href="https://github.com/marcioP457">
@@ -18,7 +18,7 @@
  
  <br>
  
-  ### Redes sociais abaixo!
+  ### Redes Sociais!
  
 <div> 
  <a href="910523728369172492" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
